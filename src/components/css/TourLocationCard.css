@@ -1,0 +1,5 @@
+
+.hover-effect:hover {
+    transform: scale(1.05); /* You can adjust the scale factor as needed */
+    transition: transform 0.3s ease-in-out; /* You can adjust the transition duration and easing function */
+  }
